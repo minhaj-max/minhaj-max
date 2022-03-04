@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhaj-max
 - 👀 I’m interested in data sceince, Machine learning and AI
-- 🌱 I’m currently learning ML Model building and training
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
